@@ -194,17 +194,18 @@
 
     .text h3{
         font-size: 1.4rem;
+        padding: 0 1rem;
     }
 
 }
 
 @media only screen and (max-width:380px){
     .image-section{
-        width: 33rem !important;
+        width: 31rem !important;
     }
 
     .image-section img{
-        width: 33rem !important;
+        width: 31rem !important;
     }
 
     .title-section h1 {
